@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Рамин&Эмир\\Desktop\\C# Знакомство ДЗ\\C# Знакомство ДЗ.csproj",
+      "projectUniqueName": "C:\\Users\\Рамин&Эмир\\Desktop\\GeekBrains\\Введение в C#\\Семинар1\\C# Знакомство ДЗ\\C# Знакомство ДЗ.csproj",
       "projectName": "C# Знакомство ДЗ",
-      "projectPath": "C:\\Users\\Рамин&Эмир\\Desktop\\C# Знакомство ДЗ\\C# Знакомство ДЗ.csproj",
+      "projectPath": "C:\\Users\\Рамин&Эмир\\Desktop\\GeekBrains\\Введение в C#\\Семинар1\\C# Знакомство ДЗ\\C# Знакомство ДЗ.csproj",
       "packagesPath": "C:\\Users\\Рамин&Эмир\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Рамин&Эмир\\Desktop\\C# Знакомство ДЗ\\obj\\",
+      "outputPath": "C:\\Users\\Рамин&Эмир\\Desktop\\GeekBrains\\Введение в C#\\Семинар1\\C# Знакомство ДЗ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Рамин&Эмир\\AppData\\Roaming\\NuGet\\NuGet.Config"

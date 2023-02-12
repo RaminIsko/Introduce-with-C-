@@ -13,3 +13,18 @@ C:\Users\Рамин&Эмир\Desktop\C# Знакомство ДЗ\obj\Debug\net6
 C:\Users\Рамин&Эмир\Desktop\C# Знакомство ДЗ\obj\Debug\net6.0\C# Знакомство ДЗ.pdb
 C:\Users\Рамин&Эмир\Desktop\C# Знакомство ДЗ\obj\Debug\net6.0\C# Знакомство ДЗ.genruntimeconfig.cache
 C:\Users\Рамин&Эмир\Desktop\C# Знакомство ДЗ\obj\Debug\net6.0\ref\C# Знакомство ДЗ.dll
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Введение в C#\Семинар1\C# Знакомство ДЗ\bin\Debug\net6.0\C# Знакомство ДЗ.exe
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Введение в C#\Семинар1\C# Знакомство ДЗ\bin\Debug\net6.0\C# Знакомство ДЗ.deps.json
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Введение в C#\Семинар1\C# Знакомство ДЗ\bin\Debug\net6.0\C# Знакомство ДЗ.runtimeconfig.json
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Введение в C#\Семинар1\C# Знакомство ДЗ\bin\Debug\net6.0\C# Знакомство ДЗ.dll
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Введение в C#\Семинар1\C# Знакомство ДЗ\bin\Debug\net6.0\C# Знакомство ДЗ.pdb
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Введение в C#\Семинар1\C# Знакомство ДЗ\obj\Debug\net6.0\C# Знакомство ДЗ.csproj.AssemblyReference.cache
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Введение в C#\Семинар1\C# Знакомство ДЗ\obj\Debug\net6.0\C# Знакомство ДЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Введение в C#\Семинар1\C# Знакомство ДЗ\obj\Debug\net6.0\C# Знакомство ДЗ.AssemblyInfoInputs.cache
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Введение в C#\Семинар1\C# Знакомство ДЗ\obj\Debug\net6.0\C# Знакомство ДЗ.AssemblyInfo.cs
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Введение в C#\Семинар1\C# Знакомство ДЗ\obj\Debug\net6.0\C# Знакомство ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Введение в C#\Семинар1\C# Знакомство ДЗ\obj\Debug\net6.0\C# Знакомство ДЗ.dll
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Введение в C#\Семинар1\C# Знакомство ДЗ\obj\Debug\net6.0\refint\C# Знакомство ДЗ.dll
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Введение в C#\Семинар1\C# Знакомство ДЗ\obj\Debug\net6.0\C# Знакомство ДЗ.pdb
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Введение в C#\Семинар1\C# Знакомство ДЗ\obj\Debug\net6.0\C# Знакомство ДЗ.genruntimeconfig.cache
+C:\Users\Рамин&Эмир\Desktop\GeekBrains\Введение в C#\Семинар1\C# Знакомство ДЗ\obj\Debug\net6.0\ref\C# Знакомство ДЗ.dll
